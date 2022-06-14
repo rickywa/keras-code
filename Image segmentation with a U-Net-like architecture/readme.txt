@@ -1,6 +1,6 @@
 Image segmentation with a U-Net-like architecture
 
-U-Net 神經網路架構如下：
+U-Net paper: https://arxiv.org/pdf/1505.04597.pdf
 
 
 
